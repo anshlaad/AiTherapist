@@ -1,4 +1,4 @@
-# Aura3.0: AI-Powered Mental Health Support on Sonic 🧠⛓️
+# MindMate: AI-Powered Mental Health Support on Sonic 🧠⛓️
 
 > An autonomous AI therapist powered by advanced NLP and emotional intelligence, providing personalized mental health support while ensuring privacy through blockchain technology. Built on Sonic Blaze Testnet with Zerepy agents.
 
@@ -64,8 +64,8 @@
 1. **Clone & Install**
 
    ```bash
-   git clone https://github.com/blocklinklabs/aura3.0.git
-   cd aura3.0
+   git clone https://github.com/blocklinklabs/MindMate.git
+   cd MindMate
    npm install
    ```
 
